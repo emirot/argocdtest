@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: argocd-e2e-test
+  name: argocd-e2e-test-a
